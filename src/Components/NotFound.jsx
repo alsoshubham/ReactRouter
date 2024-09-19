@@ -1,12 +1,12 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
 
-const notFound = () =>{
+const NotFound = () =>{
     return(
         <div>
-
+          Page not Found, error 404
         </div>
     )
 }
 
-export default notFound;
+export default NotFound;
